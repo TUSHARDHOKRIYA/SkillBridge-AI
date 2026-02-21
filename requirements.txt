@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+gunicorn
+google-cloud-storage
+google-api-python-client
+google-auth
+google-auth-oauthlib
+pydantic
+python-multipart
+google-generativeai
+google-genai
+python-dotenv
+PyMuPDF
+requests
+firebase-admin
+sentence-transformers
+pydantic-settings

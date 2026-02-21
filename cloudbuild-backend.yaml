@@ -1,0 +1,5 @@
+steps:
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-f', 'Dockerfile.backend', '-t', 'gcr.io/gen-lang-client-0640061191/skillbridge-backend', '.']
+images:
+  - 'gcr.io/gen-lang-client-0640061191/skillbridge-backend'

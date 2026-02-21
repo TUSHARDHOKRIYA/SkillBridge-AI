@@ -1,0 +1,18 @@
+{
+  "domain": "machine_learning_engineer",
+  "fully_covered": ["statistics", "data preprocessing"],
+  "partially_covered": ["probability"],
+  "missing": [
+    "linear algebra",
+    "calculus",
+    "python",
+    "machine learning algorithms",
+    "model evaluation",
+    "deep learning basics",
+    "numpy",
+    "pandas"
+  ],
+  "weekly_hours": 6,
+  "semester_weeks": 16,
+  "goal": "industry-ready foundation"
+}

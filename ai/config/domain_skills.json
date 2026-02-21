@@ -1,0 +1,201 @@
+{
+  "machine_learning_engineer": {
+    "core": [
+      "linear algebra",
+      "calculus",
+      "probability",
+      "statistics",
+      "python",
+      "data structures",
+      "algorithms",
+      "numerical methods",
+      "optimization",
+      "machine learning fundamentals"
+    ],
+    "secondary": [
+      "supervised learning",
+      "unsupervised learning",
+      "feature engineering",
+      "data preprocessing",
+      "model evaluation",
+      "cross validation",
+      "bias variance tradeoff",
+      "regularization",
+      "deep learning basics",
+      "neural networks",
+      "backpropagation",
+      "gradient descent",
+      "numpy",
+      "pandas",
+      "scikit learn",
+      "tensorflow",
+      "pytorch",
+      "model deployment basics",
+      "ml pipelines",
+      "experiment tracking",
+      "hyperparameter tuning"
+    ]
+  },
+
+  "data_analyst": {
+    "core": [
+      "statistics",
+      "probability",
+      "sql",
+      "data analysis",
+      "data visualization",
+      "python",
+      "business understanding",
+      "exploratory data analysis"
+    ],
+    "secondary": [
+      "excel",
+      "advanced sql",
+      "data cleaning",
+      "data wrangling",
+      "pandas",
+      "numpy",
+      "matplotlib",
+      "seaborn",
+      "dashboarding",
+      "tableau",
+      "power bi",
+      "report writing",
+      "descriptive analytics",
+      "hypothesis testing",
+      "a b testing",
+      "basic machine learning",
+      "time series basics"
+    ]
+  },
+
+  "backend_developer": {
+    "core": [
+      "data structures",
+      "algorithms",
+      "object oriented programming",
+      "sql",
+      "http",
+      "rest api",
+      "python",
+      "java",
+      "javascript",
+      "database fundamentals"
+    ],
+    "secondary": [
+      "authentication",
+      "authorization",
+      "jwt",
+      "system design basics",
+      "scalability fundamentals",
+      "caching",
+      "database indexing",
+      "orm",
+      "microservices basics",
+      "docker",
+      "cloud basics",
+      "api security",
+      "logging",
+      "testing",
+      "unit testing",
+      "integration testing",
+      "message queues",
+      "background jobs"
+    ]
+  },
+
+  "full_stack_developer": {
+    "core": [
+      "html",
+      "css",
+      "javascript",
+      "sql",
+      "http",
+      "rest api",
+      "frontend fundamentals",
+      "backend fundamentals"
+    ],
+    "secondary": [
+      "react",
+      "vue",
+      "angular",
+      "nodejs",
+      "express",
+      "authentication",
+      "authorization",
+      "responsive design",
+      "state management",
+      "frontend frameworks",
+      "backend frameworks",
+      "api integration",
+      "database design",
+      "deployment basics",
+      "cloud hosting",
+      "testing",
+      "version control",
+      "web performance"
+    ]
+  },
+
+  "cybersecurity_engineer": {
+    "core": [
+      "computer networks",
+      "operating systems",
+      "linux",
+      "cryptography",
+      "network security",
+      "security fundamentals",
+      "threat modeling",
+      "risk assessment"
+    ],
+    "secondary": [
+      "web security",
+      "owasp top 10",
+      "penetration testing",
+      "ethical hacking",
+      "incident response",
+      "digital forensics basics",
+      "firewalls",
+      "ids ips",
+      "malware basics",
+      "vulnerability assessment",
+      "security monitoring",
+      "siem",
+      "log analysis",
+      "access control",
+      "identity management"
+    ]
+  },
+
+  "cloud_devops_engineer": {
+    "core": [
+      "linux",
+      "operating systems",
+      "cloud computing",
+      "networking",
+      "containers",
+      "infrastructure fundamentals",
+      "scripting"
+    ],
+    "secondary": [
+      "docker",
+      "kubernetes",
+      "ci cd",
+      "cloud platforms",
+      "aws",
+      "gcp",
+      "azure",
+      "monitoring",
+      "logging",
+      "terraform",
+      "infrastructure as code",
+      "configuration management",
+      "ansible",
+      "helm",
+      "system reliability",
+      "scaling",
+      "cost optimization",
+      "security best practices"
+    ]
+  }
+}

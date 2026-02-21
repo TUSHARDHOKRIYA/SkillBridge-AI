@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# Logs
+*.log
+build_log.txt
+build_output*.txt
+lint_output*.txt
+
+# OS
+.DS_Store

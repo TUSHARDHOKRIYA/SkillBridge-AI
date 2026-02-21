@@ -1,0 +1,99 @@
+{
+  "dbms": "databases",
+  "database management system": "databases",
+  "databases": "databases",
+
+  "data structures": "data structures",
+  "dsa": "data structures",
+  "data structure": "data structures",
+
+  "oops": "object oriented programming",
+  "oop": "object oriented programming",
+  "object oriented programming": "object oriented programming",
+
+  "cn": "computer networks",
+  "computer network": "computer networks",
+  "computer networks": "computer networks",
+
+  "os": "operating systems",
+  "operating system": "operating systems",
+  "operating systems": "operating systems",
+
+  "ai": "artificial intelligence",
+  "artificial intelligence": "artificial intelligence",
+
+  "ml": "machine learning",
+  "machine learning": "machine learning",
+
+  "deep learning": "deep learning",
+  "neural networks": "deep learning",
+
+  "nlp": "natural language processing",
+  "natural language processing": "natural language processing",
+
+  "cv": "computer vision",
+  "computer vision": "computer vision",
+
+  "sql": "sql",
+  "structured query language": "sql",
+
+  "http": "http",
+  "https": "http",
+  "rest": "rest api",
+  "rest api": "rest api",
+
+  "html": "html",
+  "css": "css",
+  "javascript": "javascript",
+  "js": "javascript",
+
+  "react": "react",
+  "node": "nodejs",
+  "nodejs": "nodejs",
+
+  "linux": "linux",
+  "unix": "linux",
+
+  "docker": "docker",
+  "containers": "docker",
+
+  "kubernetes": "kubernetes",
+
+  "cloud": "cloud computing",
+  "cloud computing": "cloud computing",
+
+  "ci cd": "ci/cd",
+  "cicd": "ci/cd",
+
+  "statistics": "statistics",
+  "probability": "probability",
+
+  "linear algebra": "linear algebra",
+  "matrices": "linear algebra",
+  "eigenvalues": "linear algebra",
+  "eigen vectors": "linear algebra",
+
+  "calculus": "calculus",
+  "derivatives": "calculus",
+  "partial derivatives": "calculus",
+  "integrals": "calculus",
+  "data science": "data science fundamentals",
+  "data acquisition": "data collection",
+  "data representation": "data analysis",
+  "types of data": "data analysis",
+  "numerical data": "statistics",
+  "categorical data": "statistics",
+  "probability distributions": "probability",
+  "random variables": "probability",
+  "data cleansing": "data preprocessing",
+  "data wrangling": "data preprocessing",
+  "descriptive statistics": "statistics",
+  "confidence interval": "statistics",
+  "linear regression": "machine learning basics",
+  "data visualization": "data visualization",
+  "box plots": "data visualization",
+  "scatter plots": "data visualization"
+
+  
+}
+
